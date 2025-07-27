@@ -64,15 +64,15 @@ An interactive, hacker-themed **localhost dashboard** for XAMPP environments tha
 5. Open your browser and navigate to http://localhost/ to see the dashboard.
 
 ⚙️ Customization
-Modify index.php to add features or change styling.
-
-TailwindCSS can be configured via CDN or local build.
-
-Customize icons via FontAwesome.
-
-Add README.md parsing for richer descriptions using PHP Markdown libraries.
-
-Add authentication if sharing on a local network.
+  - Modify index.php to add features or change styling.
+  
+  - TailwindCSS can be configured via CDN or local build.
+  
+  - Customize icons via FontAwesome.
+  
+  - Add README.md parsing for richer descriptions using PHP Markdown libraries.
+  
+  - Add authentication if sharing on a local network.
 
 🔐 Security
 Access is restricted to localhost only by default:
@@ -85,23 +85,24 @@ Access is restricted to localhost only by default:
       }
   ```
 💡 Future Ideas
-Search/filter projects.
 
-Real-time Git status or activity monitoring.
-
-Light/dark mode toggle.
-
-Markdown README rendering.
-
-IP whitelisting and password protection.
-
-Drag & drop reordering.
+  - Search/filter projects.
+  
+  - Real-time Git status or activity monitoring.
+  
+  - Light/dark mode toggle.
+  
+  - Markdown README rendering.
+  
+  - IP whitelisting and password protection.
+  
+  - Drag & drop reordering.
 
 🙌 Contributions
-Feel free to fork and submit pull requests! Open to feature requests and improvements.
+  Feel free to fork and submit pull requests! Open to feature requests and improvements.
 
 📄 License
-This project is licensed under the MIT License.
+  This project is licensed under the MIT License.
 
   ```text
 
