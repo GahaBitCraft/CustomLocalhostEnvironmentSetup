@@ -51,8 +51,15 @@ An interactive, hacker-themed **localhost dashboard** for XAMPP environments tha
     ```
 
 4. (Optional) Add config.json files in your project folders to customize their display.
-
-    Example config.json:
+    📁 Expected Folder Structure in Each Project:
+     Inside each project directory (optional but recommended):
+        
+        /project1/
+        ├── config.json       <-- for description and thumbnail
+        ├── thumbnail.png     <-- optional project icon/thumbnail
+        ├── index.php/html
+        
+    Sample config.json:
 
           {
             "name": "Awesome App",
